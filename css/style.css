@@ -1,8 +1,56 @@
+* {
+  background-color: lightblue;
+}
+
+.title {
+  text-align: center;
+  font-size: 4rem;
+}
+p {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
 img {
   width: 500px;
   height: 500x;
-  /* padding: 50px; */
-  border-radius: 100px black solid;
+  border: 1px lightseagreen;
+  box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.4);
+}
+
+img.clockwise {
+  width: 80px;
+  height: 80x;
+}
+
+img.clockwise:hover {
+  width: 100px;
+  height: 100px;
+  transition: 1s;
+}
+
+img.axis {
+  border: 2px black solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img.axis-2 {
+  border: 2px black solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img.axis-3 {
+  border: 2px black solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 /*  transform : rotateX(<angle>) - X-Axis is horizontal-   */

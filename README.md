@@ -5,10 +5,6 @@
 - Prepare the topic about transform - rotateX(),rotateY(),rotateZ()
 - Present the work in classroom.
 
-### Expected output
-
-![]()
-
 ### Method
 
 ```html
@@ -22,6 +18,15 @@
 ```
 
 - [Click here to see CSS Code](css/style.css)
+
+### Resources
+
+- [Transform property](http://tympanus.net/codrops/css_reference/transform/#section_rotateY)
+- [xyz-axis](https://www.101computing.net/3d-snowman/xyz-axis/)
+- [CSS 3D Transforms](https://www.w3schools.com/css/css3_3dtransforms.asp)
+- [3D transform functions](https://3dtransforms.desandro.com/3d-transform-functions)
+- [https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function)
+- [CSS Transforms Playground](https://css-playground.com/view/38/css-transforms)
 
 #### Result
 

@@ -25,7 +25,7 @@
 - [xyz-axis](https://www.101computing.net/3d-snowman/xyz-axis/)
 - [CSS 3D Transforms](https://www.w3schools.com/css/css3_3dtransforms.asp)
 - [3D transform functions](https://3dtransforms.desandro.com/3d-transform-functions)
-- [https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function)
+- [transform-function](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function)
 - [CSS Transforms Playground](https://css-playground.com/view/38/css-transforms)
 
 #### Result

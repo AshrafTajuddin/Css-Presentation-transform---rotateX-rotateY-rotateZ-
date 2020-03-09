@@ -8,13 +8,13 @@
 ### Method
 
 ```html
-<!-- in HTML <img> Tag
+<!-- in HTML used <img> Tag
 ```
 
 - [Click here to see HTML Code](index.html)
 
 ```css
-/* using  transform: rotateY(0deg) and transform: rotateY(180deg) to see the movement of img.
+/* used transform: rotateY(0deg) and transform: rotateY(180deg) to see the movement direction of image.
 ```
 
 - [Click here to see CSS Code](css/style.css)
